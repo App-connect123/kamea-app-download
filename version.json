@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
+  "versionCode": 10,
   "versionName": "1.0.0",
   "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/latest/download/kamea.apk",
   "required": false,
-  "title": "KAMEA-Startseite verbessert",
-  "message": "Neu: einheitliches KAMEA-Design mit goldenen Rahmen. Location mieten steht jetzt unter dem Muttizettel. Das Helene-Beach-Bild wurde entfernt."
+  "title": "KAMEA- und Bellevue-Galerie",
+  "message": "Neu: Galerie-Filter für Alle, KAMEA und Bellevue. KAMEA-Alben sind gold und Bellevue-Alben violett gekennzeichnet."
 }
