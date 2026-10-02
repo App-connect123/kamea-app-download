@@ -1,8 +1,9 @@
 {
-  "versionCode": 12,
+{
+  "versionCode": 13,
   "versionName": "1.0.0",
   "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/latest/download/kamea.apk",
   "required": false,
-  "title": "Bellevue-Galerie repariert",
-  "message": "Neu: Die Bellevue-Partybilder werden jetzt vollständig geladen und angezeigt. Die Update-Hinweise sind weiterhin versionsabhängig."
+  "title": "Übersichtlichere Eventbereiche",
+  "message": "Neu: übersichtlichere Eventbereiche und Altersfreigaben direkt auf den Eventkarten."
 }
