@@ -1,0 +1,8 @@
+{
+    "versionCode":  3,
+    "versionName":  "1.0.0",
+    "apkUrl":  "https://github.com/App-connect123/kamea-app-download/releases/latest/download/kamea.apk",
+    "required":  false,
+    "title":  "KAMEA Update verfügbar",
+    "message":  "Eine neue Version der KAMEA App ist verfügbar."
+}
