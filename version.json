@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
+  "versionCode": 15,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0-build14/kamea.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0-build15/kamea.apk",
   "required": false,
-  "title": "Neuigkeiten aus dem KAMEA",
-  "message": "Neu: aktuelle Club-News mit Bildern direkt in der KAMEA-App."
+  "title": "Neue News und Ticket-Buttons",
+  "message": "Neue Club-News erscheinen als Popup. Ticket-Links lassen sich direkt über den Tickets-Button öffnen."
 }
