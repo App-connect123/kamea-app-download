@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
+  "versionCode": 25,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B24/app-release.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B25/app-release.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 24 ist verfügbar: Der Club-Pass-QR wird auf normalen Geräten 30 Minuten vor Beginn einer KAMEA-Veranstaltung freigeschaltet. Das KAMEA-Testtablet bleibt dauerhaft für Tests freigeschaltet. Außerdem wurden die Club-Pass-Ansicht und Darstellungsfehler korrigiert."
+  "message": "Build 25 ist verfügbar: Nach einem erfolgreichen Check-in verschwindet der Club-Pass-QR auf normalen Geräten und zeigt den erfolgreichen Check-in an. Das KAMEA-Testtablet bleibt für Tests freigeschaltet. Außerdem kann der Club-Pass-Name nach dem erstmaligen Speichern nicht mehr geändert werden und bei Getränkewünschen wurde der Hinweis zur Alters- und Ausweiskontrolle ergänzt."
 }
