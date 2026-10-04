@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
+  "versionCode": 27,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B26/app-release.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B27/app-release.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 26 ist verfügbar: Der Club-Pass-QR kann jetzt über die Admin-Webseite manuell freigeschaltet und wieder geschlossen werden. Die automatische Freigabe 30 Minuten vor einer KAMEA-Veranstaltung bleibt bestehen. Außerdem kann der bestehende Club Pass über einen persönlichen Wiederherstellungsschlüssel auf einem neuen Gerät wiederhergestellt werden. Punkte, Besuche, Status und Club-Pass-ID bleiben erhalten."
+  "message": "Build 27 ist verfügbar: Der Jugendschutz-Hinweis bei den Getränkewünschen im Club Pass wurde korrigiert. Spirituosen und spirituosenhaltige Getränke wie Wodka, Whisky und entsprechende Mixgetränke werden ausschließlich an Personen ab 18 Jahren ausgegeben. Bei der Ausgabe erfolgt eine Alterskontrolle."
 }
