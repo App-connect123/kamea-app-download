@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
+  "versionCode": 32,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B31/app-release.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B32/app-release.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 31 ist verfügbar: Ticket-Links in News erscheinen wieder als Button. Freigetränke per Handy-NFC-Pass sind in der App vorbereitet; die Terminal-Anbindung folgt später. Deine gespeicherten Daten und bisherigen Funktionen bleiben erhalten."
+  "message": "Build 32 entfernt den Banner über „Zu jung für KAMEA?“. Der Hinweis und das Formular bleiben erhalten. Alle bisherigen Funktionen und deine gespeicherten Daten bleiben bestehen."
 }
