@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
+  "versionCode": 31,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B30/app-release.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B31/app-release.apk",
   "required": false,
-  "title": "KAMEA Updater-Test",
-  "message": "Test-Update auf Build 30: Bitte jetzt über die App aktualisieren. Die App-Funktionen und deine gespeicherten Daten bleiben erhalten. Android fragt nach der Installation; ein USB-Kabel ist nicht erforderlich."
+  "title": "KAMEA App Update",
+  "message": "Build 31 ist verfügbar: Ticket-Links in News erscheinen wieder als Button. Freigetränke per Handy-NFC-Pass sind in der App vorbereitet; die Terminal-Anbindung folgt später. Deine gespeicherten Daten und bisherigen Funktionen bleiben erhalten."
 }
