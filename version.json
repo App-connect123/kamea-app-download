@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
+  "versionCode": 29,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B28/app-release.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B29/app-release.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 28 ist verfügbar: Der automatische Download und die Installation von App-Updates wurden verbessert und ein Fehler beim Öffnen der heruntergeladenen APK behoben."
+  "message": "Build 29 ist verfügbar: Verbesserter Update-Download, sichtbarer Fortschritt und zuverlässigere Übergabe an den Android-Paketinstaller. Bestehende App-Daten bleiben erhalten."
 }
