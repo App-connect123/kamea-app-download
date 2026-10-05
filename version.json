@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
+  "versionCode": 35,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B34/app-release.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B35/app-release.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 34 stellt das gewohnte KAMEA-Design als einzige Ansicht wieder her. Das nächste Event sowie Club Pass, News und Lounge sind auf der Startseite übersichtlicher angeordnet. Deine Daten, alle Funktionen und der geschützte Updater bleiben erhalten."
+  "message": "Build 35 entfernt die zusätzlichen Buttons und News-Vorschau unter dem Event. Inhalte bleiben beim Aktualisieren sichtbar und die Hauptbereiche laden bereits beim Start im Hintergrund. Das klassische Design, deine Daten und der geschützte Updater bleiben erhalten."
 }
