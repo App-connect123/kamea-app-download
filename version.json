@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
+  "versionCode": 33,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B32/app-release.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B33/app-release.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 32 entfernt den Banner über „Zu jung für KAMEA?“. Der Hinweis und das Formular bleiben erhalten. Alle bisherigen Funktionen und deine gespeicherten Daten bleiben bestehen."
+  "message": "Build 33 bringt eine übersichtlichere Startseite, fünf Navigationsbereiche und Punkte sowie Vorteile direkt im Club Pass. Das bisherige Design kannst du jederzeit unter Mehr → Neues Design ausschalten wieder aktivieren. Deine Daten, alle Funktionen und der geschützte Updater bleiben erhalten."
 }
