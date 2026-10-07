@@ -1,8 +1,8 @@
 {
-  "versionCode": 48,
+  "versionCode": 49,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B48/KAMEA-Build48.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B49/KAMEA-Build49.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 48: Der Admin-Schalter zur sofortigen QR-Freischaltung wird für KAMEA und BELLEVUE auch bei geschlossenem Pass zeitnah übernommen. Zurückschalten auf automatische Freigabe funktioniert ebenfalls. App-Daten und Clubfunktionen bleiben erhalten."
+  "message": "Build 49: Getränke nach Lounge-Freigabe vorbestellen oder vor Ort bestellen. Optionale doppelte Check-in-Punkte je Veranstaltung und Zeitraum sowie individuelle Kommentarsperren. App-Daten und Clubfunktionen bleiben erhalten."
 }
