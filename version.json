@@ -1,8 +1,8 @@
 {
-  "versionCode": 44,
+  "versionCode": 45,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B44/KAMEA-Build44.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B45/KAMEA-Build45.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 44: Umfragen mit Bildern, Kommentare mit Vornamen aus dem Club Pass und Likes. Reaktionen pro Beitrag einstellbar. Belohnungsregeln im Admin übersichtlicher. Vor- und Nachname wie im Ausweis angeben. Bestehende App-Daten und Funktionen bleiben erhalten."
+  "message": "Build 45: Umfrage-Antworten direkt im News-Bereich, klarer Kommentar-Button. News und Umfragen im Admin zusammengeführt: einfache Erstellung, bis zu zehn Antworten und optionaler Push mit Versandstatus. App-Daten und Clubfunktionen bleiben erhalten."
 }
