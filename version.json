@@ -4,5 +4,5 @@
   "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B48/KAMEA-Build48.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 47: übersichtlichere Umfrage-Ansicht mit größeren Antwortfeldern. Deaktivierte Kommentare werden beim Aktualisieren der News zuverlässig ausgeblendet. App-Daten und Clubfunktionen bleiben erhalten."
+  "message": "Build 48: Der Admin-Schalter zur sofortigen QR-Freischaltung wird für KAMEA und BELLEVUE auch bei geschlossenem Pass zeitnah übernommen. Zurückschalten auf automatische Freigabe funktioniert ebenfalls. App-Daten und Clubfunktionen bleiben erhalten."
 }
