@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
+  "versionCode": 44,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B43/KAMEA-Build43.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B44/KAMEA-Build44.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 43: QR-Code 30 Minuten vor Eventbeginn, kurze Passnummer, neue Pass-Anordnung, Preis-Button bei Lounge mieten, interne Informationslinks und Test-Pass nach 10 Minuten. App-Daten und bisherige Funktionen bleiben erhalten."
+  "message": "Build 44: Umfragen mit Bildern, Kommentare mit Vornamen aus dem Club Pass und Likes. Reaktionen pro Beitrag einstellbar. Belohnungsregeln im Admin übersichtlicher. Vor- und Nachname wie im Ausweis angeben. Bestehende App-Daten und Funktionen bleiben erhalten."
 }
