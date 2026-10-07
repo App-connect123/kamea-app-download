@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
+  "versionCode": 43,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B42/KAMEA-Build42.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B43/KAMEA-Build43.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 42: Getränkepreise für deine Lounge-Anfrage anfragen, Freigabe prüfen und freigegebene Preisliste ansehen. Bisherige Funktionen, App-Daten und geschützter Updater bleiben erhalten."
+  "message": "Build 43: QR-Code 30 Minuten vor Eventbeginn, kurze Passnummer, neue Pass-Anordnung, Preis-Button bei Lounge mieten, interne Informationslinks und Test-Pass nach 10 Minuten. App-Daten und bisherige Funktionen bleiben erhalten."
 }
