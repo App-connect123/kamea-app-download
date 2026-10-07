@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
+  "versionCode": 46,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B45/KAMEA-Build45.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B46/KAMEA-Build46.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 45: Umfrage-Antworten direkt im News-Bereich, klarer Kommentar-Button. News und Umfragen im Admin zusammengeführt: einfache Erstellung, bis zu zehn Antworten und optionaler Push mit Versandstatus. App-Daten und Clubfunktionen bleiben erhalten."
+  "message": "Build 46: News direkt liken und kommentieren, Kommentare liken, aufgeräumte Umfragen mit sichtbaren Antworten, optionalem Abstimmungsende und Ausblenddatum. Einfachere Verwaltung und passende Umfrage-Push-Titel. App-Daten und Clubfunktionen bleiben erhalten."
 }
