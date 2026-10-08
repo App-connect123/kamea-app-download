@@ -1,8 +1,8 @@
 {
-  "versionCode": 52,
+  "versionCode": 53,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B52/KAMEA-Build52.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B53/KAMEA-Build53.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 52: Party-Buddys direkt im Profil: Gesuche ansehen und eigenes Gesuch einfacher eintragen oder bearbeiten. Klarer Ausweis-Hinweis im Profil; bei Party-Buddys und Kommentaren wird nur der Vorname angezeigt. App-Daten bleiben erhalten."
+  "message": "Build 53: Club-Pass-QR schließt automatisch nach Eventende. Übersichtlicher Club Pass ohne Freigetränke-per-Handy-Ankündigung. Alter und Geschlecht einmal speichern; neue Nutzer erhalten einen Profilhinweis. Manuelle QR-Freigabe, Test-Tablet und App-Daten bleiben erhalten."
 }
