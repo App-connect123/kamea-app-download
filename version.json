@@ -1,8 +1,8 @@
 {
-  "versionCode": 56,
+  "versionCode": 57,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B56/KAMEA-Build56.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B57/KAMEA-Build57.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 56: Club-Pass-Übersicht an die Referenz angepasst. Punkte, Besuche und Vorteile wieder in einem eigenen umrahmten Abschnitt."
+  "message": "Build 57 behebt die abweichende Club-Pass-Ansicht auf Geräten mit alter Designauswahl. Die Referenzansicht wird beim Start aktiviert und gespeichert."
 }
