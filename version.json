@@ -1,8 +1,8 @@
 {
-  "versionCode": 55,
+  "versionCode": 56,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B55/KAMEA-Build55.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B56/KAMEA-Build56.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 55: Club-Pass-Anpassung. Freigetränk-/NFC-Oberfläche entfernt; modernes Club-Pass-Design wieder Standard."
+  "message": "Build 56: Club-Pass-Übersicht an die Referenz angepasst. Punkte, Besuche und Vorteile wieder in einem eigenen umrahmten Abschnitt."
 }
