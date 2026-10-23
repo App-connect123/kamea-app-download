@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
+  "versionCode": 54,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B53/KAMEA-Build53.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B54/KAMEA-Build54.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 53: Club-Pass-QR schließt automatisch nach Eventende. Übersichtlicher Club Pass ohne Freigetränke-per-Handy-Ankündigung. Alter und Geschlecht einmal speichern; neue Nutzer erhalten einen Profilhinweis. Manuelle QR-Freigabe, Test-Tablet und App-Daten bleiben erhalten."
+  "message": "Build 54: Testupdate. Keine Änderungen am App-Code; reguläres Update und Erhalt der App-Installation auf einem Gerät mit Build 53 geprüft."
 }
