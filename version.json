@@ -1,8 +1,8 @@
 {
-  "versionCode": 57,
+  "versionCode": 58,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B57/KAMEA-Build57.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B58/KAMEA-Build58.apk",
   "required": false,
   "title": "KAMEA App Update",
-  "message": "Build 57 behebt die abweichende Club-Pass-Ansicht auf Geräten mit alter Designauswahl. Die Referenzansicht wird beim Start aktiviert und gespeichert."
+  "message": "Build 58 verbessert Karten und Routen, Notfallkontakt-Import, Profil mit einmaligem Geburtsdatum, Foto-Favoriten und Navigation."
 }
