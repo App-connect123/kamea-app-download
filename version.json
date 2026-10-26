@@ -1,8 +1,8 @@
 {
-  "versionCode": 60,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v1.0.0%2B60/KAMEA-Build60.apk",
-  "required": false,
-  "title": "KAMEA App Update",
-  "message": "Build 60 verbessert die Taxi-Suche und synchronisiert Name und Geburtsdatum zwischen Profil und Club Pass. Party-Buddy-Geschlecht und -Alter sind nicht mehr separat änderbar. Enthält außerdem Karten, Notfallkontakt-Import, Foto-Favoriten und Navigation."
+    "versionCode": 61,
+    "versionName": "0.1.0",
+    "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v0.1.0%2B61/KAMEA-Build61.apk",
+    "required": false,
+    "title": "KAMEA App Update 0.1.0",
+    "message": "Die App zeigt jetzt Version 0.1.0 im Profil unter App-Info. Die technische Buildnummer bleibt für bestehende Installationen fortlaufend."
 }
