@@ -1,8 +1,8 @@
 {
-  "versionCode": 64,
+  "versionCode": 68,
   "versionName": "0.1.0",
-  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v0.1.0%2B64/KAMEA-Build64.apk",
+  "apkUrl": "https://github.com/App-connect123/kamea-app-download/releases/download/v0.1.0%2B68/KAMEA-Build68.apk",
   "required": false,
   "title": "KAMEA App Update 0.1.0",
-  "message": "Das Oktoberfest-Buchungstool ist jetzt in die App integriert. Der Einstieg erscheint, sobald es in der Verwaltung freigeschaltet ist. Die technische Buildnummer bleibt für bestehende Installationen fortlaufend."
+  "message": "Die Admin-Webseiten-Domain wurde aktualisiert. News, Club Pass, Oktoberfest, App-Zugangsprüfung und Hintergrunddienste nutzen wieder den aktuellen Server."
 }
